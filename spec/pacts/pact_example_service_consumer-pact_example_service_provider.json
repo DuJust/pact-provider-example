@@ -1,0 +1,14 @@
+{
+  "provider": {
+    "name": "Pact Example Service Provider"
+  },
+  "consumer": {
+    "name": "Pact Example Service Consumer"
+  },
+  "interactions": [
+
+  ],
+  "metadata": {
+    "pactSpecificationVersion": "1.0.0"
+  }
+}
